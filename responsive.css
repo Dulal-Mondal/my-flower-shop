@@ -1,0 +1,25 @@
+@media screen and (max-width:576px) {
+    .hero-section {
+
+        flex-direction: column-reverse;
+        padding: 10px;
+        gap: 20px;
+
+    }
+
+    .hero-content {
+        text-align: center;
+    }
+
+    .hero-content h1 {
+        padding: 10px;
+        font-size: 30px;
+        text-align: center;
+
+    }
+
+    .hero-content p {
+        padding: 10px;
+        text-align: center;
+    }
+}
