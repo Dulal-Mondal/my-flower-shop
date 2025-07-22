@@ -46,4 +46,11 @@
     }
 
 
+    .discount-section {
+        padding: 30px;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+
 }
