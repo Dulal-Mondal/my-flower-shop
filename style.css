@@ -113,3 +113,18 @@ img {
     text-align: center;
     padding-top: 20px;
 }
+
+.service-support-section {
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 70px 220px;
+    padding: 30px 100px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.service-support img {
+    width: 60px;
+    height: 60px;
+}
