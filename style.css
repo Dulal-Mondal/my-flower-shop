@@ -234,3 +234,26 @@ img {
 .input-group button:hover {
     background-color: #d33a50;
 }
+
+footer {
+    background-color: rgba(17, 16, 16, 1.00);
+    color: white;
+    padding: 120px 400px;
+    text-align: center;
+
+}
+
+footer h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+footer p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+footer h5 {
+    font-size: 12px;
+    color: grey;
+}
