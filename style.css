@@ -147,3 +147,90 @@ img {
     color: rgba(39, 39, 39, 0.60);
     font-size: 14px;
 }
+
+.instagram-card-items {
+    margin: 40px 220px;
+}
+
+.section-discription {
+    text-align: center;
+    padding: 0 140px 20px 140px;
+
+}
+
+.section-discription p {
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+
+
+.card-flower-item {
+
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.card-item {
+    box-shadow: 5px 5px 5px rgb(145, 142, 142);
+
+}
+
+.subscribe-section {
+    background-image: url('./Flower\ Asset/Rectangle 9.png');
+    /* Replace with your actual image path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 40px 220px;
+    padding: 80px 20px;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 100%;
+
+}
+
+
+
+.subscribe-section h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+.subscribe-section p {
+    color: #777;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.input-group {
+    display: flex;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.input-group input {
+    flex: 1;
+    padding: 15px;
+    border: none;
+    border-radius: 6px 0 0 6px;
+    font-size: 16px;
+}
+
+.input-group button {
+    background-color: #ec4d62;
+    color: #fff;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 0 6px 6px 0;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.input-group button:hover {
+    background-color: #d33a50;
+}

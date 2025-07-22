@@ -52,5 +52,62 @@
         gap: 20px;
     }
 
+    .card-flower-item {
+        flex-direction: column;
+        gap: 15px;
+        justify-content: space-between;
+    }
+
+    .instagram-card-items {
+        margin: 20px;
+    }
+
+    .section-discription {
+        padding: 10px 20px;
+    }
+
+    .subscribe-section {
+
+        margin: 20px;
+        padding: 50px 20px;
+        text-align: center;
+        border-radius: 10px;
+        max-width: 100%;
+
+    }
+
+    .subscribe-section h2 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .subscribe-section p {
+        color: #777;
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+
+    .input-group {
+        display: flex;
+        justify-content: center;
+        max-width: 10px;
+        margin: 0 auto;
+    }
+
+    .input-group input {
+        flex: 1;
+        padding: 10px;
+        border: none;
+        border-radius: 5px 0 0 5px;
+        font-size: 12px;
+    }
+
+    .input-group button {
+
+        padding: 10px;
+        font-size: 12px;
+        border-radius: 0 5px 5px 0;
+
+    }
 
 }
