@@ -22,4 +22,20 @@
         padding: 10px;
         text-align: center;
     }
+
+    .section-title {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .flower-tree-card {
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 55px;
+        margin: 20px;
+
+    }
+
+
 }
